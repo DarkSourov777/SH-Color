@@ -13,5 +13,5 @@ cd SH-Color
 
 python color.py
 
-#work
+# work
 32,64 bit
