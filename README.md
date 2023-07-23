@@ -13,5 +13,8 @@ cd SH-Color
 
 python color.py
 
-# work
+# Support 
 32,64 bit
+
+# work
+Facbook ids Cloning (Bruteforce)
