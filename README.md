@@ -6,6 +6,12 @@
 
 # Install Process 
 rm -rf SH-Color
+
 git clone https://github.com/DarkSourov777/SH-Color
+
 cd SH-Color
+
 python color.py
+
+#work
+32,64 bit
