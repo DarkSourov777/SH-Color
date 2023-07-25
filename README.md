@@ -5,9 +5,10 @@
 
 
 # Install Process 
-rm -rf SH-Color
 
 git clone https://github.com/DarkSourov777/SH-Color
+
+git pull
 
 cd SH-Color
 
