@@ -1,4 +1,3 @@
-# SH-Color
 # Weekly update
 1.Friday 
 2.Sunday
@@ -8,9 +7,9 @@
 
 git clone https://github.com/DarkSourov777/SH-Color
 
-git pull
-
 cd SH-Color
+
+git pull
 
 python color.py
 
